@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weight Tracker</string>
+
+    <!-- Main Screen -->
+    <string name="main_title">WEIGHT TRACKER</string>
+    <string name="last_entry">LAST ENTRY, %s</string>
+    <string name="change_label">CHANGE: %s</string>
+    <string name="btn_add_weight_entry">ADD WEIGHT\nENTRY</string>
+    <string name="btn_view_history">VIEW HISTORY</string>
+    <string name="btn_add_progress_photo">ADD PROGRESS PHOTO</string>
+    <string name="tip_morning_weight">Enter your morning weight for the most accurate tracking.</string>
+    <string name="btn_got_it">Got It</string>
+    <string name="no_entries_yet">No entries yet.\nAdd your first weight entry!</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Add Entry Screen -->
+    <string name="add_entry_title">Add Entry</string>
+    <string name="label_date">Date</string>
+    <string name="label_weight">Weight</string>
+    <string name="hint_weight">Enter weight</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_add_progress_photo_entry">Add Progress Photo</string>
+    <string name="tip_morning_weight_entry">Enter your morning weight for the most accurate tracking.</string>
+    <string name="error_invalid_weight">Please enter a valid weight value.</string>
+    <string name="error_invalid_date">Please select a valid date.</string>
+    <string name="error_weight_empty">Weight cannot be empty.</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="label_goal_weight">Goal Weight</string>
+    <string name="hint_goal_weight">Enter goal weight</string>
+    <string name="goal_weight_info">Your long-term target. This can be updated anytime.</string>
+    <string name="label_goal_date">Goal Date</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_height">Height</string>
+    <string name="hint_height">Enter height</string>
+    <string name="label_unit_preferences">Unit Preferences</string>
+    <string name="label_imperial">Imperial (lbs, in)</string>
+    <string name="label_metric">Metric (kg, cm)</string>
+    <string name="label_beginning_weight">Beginning Weight</string>
+    <string name="hint_beginning_weight">Enter beginning weight</string>
+    <string name="btn_save_settings">Save Settings</string>
+    <string name="settings_saved">Settings saved successfully.</string>
+
+    <!-- History Screen -->
+    <string name="history_title">History</string>
+    <string name="tab_7_days">7 Days</string>
+    <string name="tab_30_days">30 Days</string>
+    <string name="tab_all">All</string>
+    <string name="no_history">No weight entries yet.</string>
+    <string name="delete_confirm_title">Delete Entry</string>
+    <string name="delete_confirm_message">Are you sure you want to delete this entry?</string>
+    <string name="btn_delete">Delete</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">HOME</string>
+    <string name="nav_history">HISTORY</string>
+    <string name="nav_settings">SETTINGS</string>
+
+    <!-- Gender options -->
+    <string-array name="gender_options">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
